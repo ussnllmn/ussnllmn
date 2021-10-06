@@ -3,13 +3,11 @@ Student, KMITL
 
 ### Now playing 🎧🎶
 
-[<img src="https://readme-spotify-status2-astrrr.vercel.app/api/run-spotify-status" alt="astrrr" width="500" />](https://open.spotify.com/user/215k6liyjkpwnbrjjgvest2wq) 
+![astrrr's GitHub stats](https://github-readme-stats.vercel.app/api?username=ussnllmn&show_icons=true&theme=cobalt)
 
-
-![astrrr's GitHub stats](https://github-readme-stats.vercel.app/api?username=astrrr&show_icons=true&theme=cobalt)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=astrrr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[<img src="https://spotify-status-mero-asebi.vercel.app/api/run-spotify-status" alt="Your alt what" width="500" />](https://open.spotify.com/user/3o3yagerlijobkuz7nbj9evnk)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ussnllmn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[<img src="https://spotify-status-mero-asebi.vercel.app/" alt="Your alt what" width="500" />](https://open.spotify.com/user/3o3yagerlijobkuz7nbj9evnk)
+[<img src="https://spotify-status-2q8nji81u-mero-asebi.vercel.app/" alt="Your alt what" width="500" />](https://open.spotify.com/user/3o3yagerlijobkuz7nbj9evnk)
 <!--
 **astrrr/astrrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
