@@ -9,7 +9,7 @@ Student, KMITL
 ![astrrr's GitHub stats](https://github-readme-stats.vercel.app/api?username=astrrr&show_icons=true&theme=cobalt)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=astrrr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[<img src="https://spotify-status-mero-asebi.vercel.app/api/run-spotify-status" alt="Your alt what" width="500" />](https://open.spotify.com/user/3o3yagerlijobkuz7nbj9evnk)
 <!--
 **astrrr/astrrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
