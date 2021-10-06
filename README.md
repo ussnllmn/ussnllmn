@@ -1,5 +1,5 @@
-### Hi 👋, I'm Asebi
-Student, KMITL
+<h1 align="center">Hi 👋, I'm Mero Asebi</h1>
+<h3 align="center">A burnout computer engineering student from Thailand</h3>
 
 <p align="center"> 
 <a href="https://open.spotify.com/user/3o3yagerlijobkuz7nbj9evnk"><img src="https://spotify-status-kappa.vercel.app/api/run-spotify-status" width="500"></a>
