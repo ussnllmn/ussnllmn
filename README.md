@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mero Asebi</h1>
+<h1 align="center">Hi 👋, I'm Mero ₳ʂєъί</h1>
 <h3 align="center">An islander in computer engineering ship</h3>
 
 <p align="center"> 
