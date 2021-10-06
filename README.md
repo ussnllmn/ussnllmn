@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mero ₳ʂєъί</h1>
 <h3 align="center">🏝️ An islander in computer engineering ship 🚣🏼</h3>
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
-- ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `#c5f015`
-- ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `#1589F0`
+
 <p align="center"><a href="https://open.spotify.com/user/3o3yagerlijobkuz7nbj9evnk"><img src="https://spotify-status-kappa.vercel.app/api/run-spotify-status" width="500"></a></p>
 
 <h2 > My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
