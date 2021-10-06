@@ -1,7 +1,8 @@
 ### Hi 👋, I'm Asebi
 Student, KMITL
 
-<h1 align="center">👋[<img src="https://spotify-status-kappa.vercel.app/api/run-spotify-status" alt="Your alt what" width="500" />](https://open.spotify.com/user/3o3yagerlijobkuz7nbj9evnk)👋</h1>
+👋<h1 align="center">[<img src="https://spotify-status-kappa.vercel.app/api/run-spotify-status" alt="Your alt what" width="500" />](https://open.spotify.com/user/3o3yagerlijobkuz7nbj9evnk)
+ 👋</h1>
 
 <h2 > My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
