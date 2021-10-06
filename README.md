@@ -7,7 +7,7 @@ Student, KMITL
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ussnllmn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[<img src="https://spotify-status-2q8nji81u-mero-asebi.vercel.app/api/run-spotify-status" alt="Your alt what" width="350" />](LINK_TO_YOUR_ACCOUNT)
+[<img src="https://spotify-status-kappa.vercel.app/api/run-spotify-status" alt="Your alt what" width="350" />](LINK_TO_YOUR_ACCOUNT)
 
 
 <!--
