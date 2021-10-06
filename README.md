@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mero ₳ʂєъί</h1>
+<font size=30><font color=#ff0039>₳</font><font color=#d5285a>ʂ</font><font color=#ab507b>є</font><font color=#81789c>ъ</font><font color=#57a0bd>ι</font><font color=#2dc8de>́</font></font>
 <h3 align="center">🏝️ An islander in computer engineering ship 🚣🏼</h3>
 
 <p align="center"><a href="https://open.spotify.com/user/3o3yagerlijobkuz7nbj9evnk"><img src="https://spotify-status-kappa.vercel.app/api/run-spotify-status" width="500"></a></p>
