@@ -1,26 +1,15 @@
 ### Hi 👋, I'm Sekson  
 Student, KMITL
 
-### Now playing 🎧🎶
-
-![astrrr's GitHub stats](https://github-readme-stats.vercel.app/api?username=ussnllmn&show_icons=true&theme=cobalt)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ussnllmn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [<img src="https://spotify-status-kappa.vercel.app/api/run-spotify-status" alt="Your alt what" width="350" />](LINK_TO_YOUR_ACCOUNT)
 
+<h2 > My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
-<!--
-**astrrr/astrrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ussnllmn&show_icons=true&theme=dark&locale=en" alt="simonhope" /></p>
 
-Here are some ideas to get you started:
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ussnllmn&theme=dark" alt="simonhope" /></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 > Languages  <img src='https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif' width='60px'> </h2>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ussnllmn&show_icons=true&theme=dark&locale=en&layout=compact" alt="simonhope" /></p>
