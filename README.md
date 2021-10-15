@@ -7,4 +7,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ussnllmn&show_icons=true&theme=dark&locale=en" width='480px'></p>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ussnllmn&show_icons=true&theme=dark&locale=en&layout=compact" width='330px'></p>
 <img src="https://github.com/ussnllmn/ussnllmn/blob/output/github-contribution-grid-snake.svg">
-//<img src="https://activity-graph.herokuapp.com/graph?username=ussnllmn&theme=react-dark">
+<!-- |Contribution graph| <img src="https://activity-graph.herokuapp.com/graph?username=ussnllmn&theme=react-dark"> -->
