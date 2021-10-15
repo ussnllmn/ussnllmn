@@ -8,4 +8,3 @@
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ussnllmn&show_icons=true&theme=dark&locale=en&layout=compact" width='330px'></p>
 <img src="https://github.com/ussnllmn/ussnllmn/blob/output/github-contribution-grid-snake.svg">
 <img src="https://activity-graph.herokuapp.com/graph?username=ussnllmn&theme=react-dark">
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ussnllmn&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
