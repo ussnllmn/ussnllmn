@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mero ₳ʂєъί</h1>
-<h3 align="center">🏝️ An islander in computer engineering ship 🚣🏼</h3>
 
 <div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3o3yagerlijobkuz7nbj9evnk&cover_image=true&theme=novatorem)](https://open.spotify.com/user/3o3yagerlijobkuz7nbj9evnk)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3o3yagerlijobkuz7nbj9evnk&cover_image=false&theme=default&bar_color=ff0000&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=3o3yagerlijobkuz7nbj9evnk&redirect=true)
   
 </div>
 
