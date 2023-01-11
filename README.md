@@ -10,8 +10,4 @@
 
 </div> 
 
-<details>
-  <summary>Contribution graphs</summary>
-  <img src="https://activity-graph.herokuapp.com/graph?username=ussnllmn&theme=react-dark">
-  <img src="https://github.com/ussnllmn/ussnllmn/blob/output/github-contribution-grid-snake.svg">
-</details>
+<img src="https://github.com/ussnllmn/ussnllmn/blob/output/github-contribution-grid-snake.svg">
