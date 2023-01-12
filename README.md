@@ -6,7 +6,7 @@
 
 | My GitHub Stats  |
 | ------------- |
-| <img src="https://github-readme-stats-ussnllmn.vercel.app/api?username=ussnllmn&show_icons=true&theme=dark&locale=en" width='420px'>  |
+| <img src="https://github-readme-stats.vercel.app/api?username=ussnllmn&show_icons=true&theme=dark&locale=en" width='420px'>  |
 
 </div> 
 
